@@ -7,9 +7,7 @@ Built for MACOS
 ## Installation
 Use this [Github Link](https://github.com/jasonl27/Flashcards-Python-App) to install the project
 1. Ensure you have Python 3.10.7 installed
-2. Create a 'Python' folder on your desktop
-3. Create a 'Flashcards' folder within the python folder
-4. Download the .zip files, and unpack them in the 'Flashcards' folder
+2. The 'os', 'getpass', and 'random' libraries are required for this program to run
 
 To run:
 - Make sure all .py files are in the same folder
