@@ -1,5 +1,5 @@
 # Flashcards-Python-App
-Version 1.0.0
+Version 1.0.0\n
 Built for MACOS
 
 # PYTHON FLASHCARDS PROJECT
