@@ -1,14 +1,14 @@
 # Flashcards-Python-App
-Version 1.0.0\n
-Built for MACOS
+Version 1.0.0
 
 # PYTHON FLASHCARDS PROJECT
 
 ## Installation
-Use this [Github Link](https://github.com/jasonl27/Flashcards-Python-App) to install the project
-1. Ensure you have Python 3.10.7 installed
-2. The 'os', 'getpass', and 'random' libraries are required for this program to run
-3. Download the ZIP file by clicking the green CODE dropdown in the top right
+Use this [Github Link](https://github.com/jasonl27/Flashcards-Python-App) to locate the Github link for the project
+1. This project was designed for Mac OS
+2. Ensure you have Python 3.10.7 installed
+3. The 'os', 'getpass', and 'random' libraries are required for this program to run
+4. Download the ZIP file by clicking the green CODE dropdown in the top right
 
 To run:
 - Unpack the ZIP file
